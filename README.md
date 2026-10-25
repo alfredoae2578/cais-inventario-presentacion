@@ -28,4 +28,6 @@ Proyecto para CAIS UABC. Presentación de un trabajo de equipo; el repositorio c
 
 Esta vitrina contiene únicamente texto e imágenes seleccionadas para presentación. El código fuente, los datos y el historial del proyecto no se publican aquí.
 
+[Ver la ficha visual de CAIS Inventario](https://alfredoae2578.github.io/projects/cais-inventario-presentacion.html)
+
 [Ver todos los proyectos](https://alfredoae2578.github.io/)
