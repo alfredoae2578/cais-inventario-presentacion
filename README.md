@@ -16,11 +16,27 @@ Sistema web de gestión de insumos para el Centro de Atención Integral de Salud
 
 ## Vista del proyecto
 
-Capturas del entregable y su demostración. No se incluyen registros reales de pacientes ni acceso al sistema.
+Pantallas del entregable y maquetas de 2025–2026. Los nombres y registros visibles en las maquetas son datos de ejemplo.
+
+### Pantalla de acceso a CAIS Inventario
 
 <img src="media/cais-acceso.png" width="860" alt="Pantalla de acceso a CAIS Inventario" />
 
+### Centro de alertas de inventario
+
 <img src="media/cais-alertas.png" width="860" alt="Centro de alertas de inventario" />
+
+### Maqueta del registro de entradas
+
+<img src="media/cais-entradas.png" width="760" alt="Maqueta del registro de entradas" />
+
+### Maqueta del registro de salidas
+
+<img src="media/cais-salidas.png" width="760" alt="Maqueta del registro de salidas" />
+
+### Maqueta del módulo de reportes
+
+<img src="media/cais-reportes.png" width="760" alt="Maqueta del módulo de reportes" />
 
 ## Contexto
 
